@@ -16,7 +16,7 @@ L.PatternShape = L.Class.extend({
 
 		// fill: false
 		// fillColor: same as color by default
-		fillOpacity: 0.2,
+		fillOpacity: 0.8,
 		fillRule: 'evenodd',
 		// fillPattern: L.Pattern
 	},
